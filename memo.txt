@@ -1,0 +1,1 @@
+https://jp.vuejs.org/v2/guide/components-registration.html#%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88%E5%90%8D
